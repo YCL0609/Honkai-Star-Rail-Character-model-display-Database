@@ -194,5 +194,11 @@
     },
     "60":{
         "name":"Rappa"
+    },
+    "61": {
+        "name": "Sunday"
+    },
+    "62": {
+        "name": "Fugue"
     }
 }
