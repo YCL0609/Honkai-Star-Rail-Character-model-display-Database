@@ -1,8 +1,8 @@
 {
     "0": {
-        "total": 61,
+        "total": 65,
         "version": "V2.7",
-        "version2": "2024-10-12"
+        "version2": "2024-11-21"
     },
     "1": {
         "data": "4,2",
@@ -369,8 +369,8 @@
     "60": {
         "data": "3,7",
         "firstup": "V2.6",
-        "model": false,
-        "weapons": 0
+        "model": true,
+        "weapons": 1
     },
     "61": {
         "data": "4,7",
@@ -383,5 +383,23 @@
         "firstup": "V2.7",
         "model": false,
         "weapons": 0
+    },
+    "63": {
+        "data": "3,3",
+        "firstup": "V3.0(?)",
+        "model": false,
+        "weapons": 0
+    },
+    "64": {
+        "data":"8,4",
+        "firstup":"V3.0(?)",
+        "model":false,
+        "weapons":0
+    },
+    "65": {
+        "data":"8,3",
+        "firstup":"V3.0(?)",
+        "model":false,
+        "weapons":0
     }
 }

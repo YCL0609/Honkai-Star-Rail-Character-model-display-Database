@@ -183,22 +183,35 @@
     "56": {
         "name": "March 7th"
     },
-    "57":{
-        "name":"Moze"
+    "57": {
+        "name": "Moze"
     },
-    "58":{
-        "name":"Feixiao"
+    "58": {
+        "name": "Feixiao"
     },
-    "59":{
-        "name":"Lingsha"
+    "59": {
+        "name": "Lingsha"
     },
-    "60":{
-        "name":"Rappa"
+    "60": {
+        "name": "Rappa"
     },
     "61": {
         "name": "Sunday"
     },
     "62": {
         "name": "Fugue"
+    },
+    "63": {
+        "name": "The Herta"
+    },
+    "64": {
+        "name": "Aglaea"
+    },
+    "65": {
+        "name": "Trailblazer",
+        "special": [
+            "female",
+            "male"
+        ]
     }
 }
